@@ -1,8 +1,15 @@
 # 王宇航 (hubertwong) 
 
-* 🌍  来自东方大国魔都，常用 ID `hubert` `hubertwong`
-* 🔧  始于生计，源于热爱，喜欢探索新技术，自学自己感兴趣的一切东西
-* ✉️  通过此邮箱可以联系我 [hubertwong@sina.com](mailto:hubertwong@sina.com)
+* 🌍  自东方魔都，常用 ID `hubert` `hubertwong` 等
+* 🔧  始于生计，源于热爱；喜欢探索新技术，自学自己感兴趣的一切东西
+* ✉️  通过此邮箱可以联系我 [hubertwong@sina.com](mailto:hubertwong@sina.com)
+
+## 技术栈
+
+<a href="http://github.com/hubertphper">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=hubertphper&show_icons=true&hide_border=true&icon_color=000000&title_color=000000&bg_color=00000000&include_all_commits=false&show=reviews,discussions_started,discussions_answered,prs_merged&hide_title=true&count_private=true&locale=cn">
+</a>
+
 
 ### 语言
 
