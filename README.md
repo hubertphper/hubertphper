@@ -1,7 +1,7 @@
 # 王宇航 (hubertwong) 
 
 * 🌍  来自东方大国魔都，常用 ID `hubert` `hubertwong`
-* 🔧  始于生计，源于热爱，coding yyds；喜欢探索新技术，自学自己感兴趣的一切东西
+* 🔧  始于生计，源于热爱，喜欢探索新技术，自学自己感兴趣的一切东西
 * ✉️  通过此邮箱可以联系我 [hubertwong@sina.com](mailto:hubertwong@sina.com)
 
 ### 语言
